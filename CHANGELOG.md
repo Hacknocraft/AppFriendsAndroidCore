@@ -1,3 +1,8 @@
+3.1.4 (2017-06-15)
+------------------
+- Removed SDK dependency on 'com.splitwise:tokenautocomplete:2.0.8@aar' library
+- Added periodic badge sync across login sessions
+
 3.1.3 (2017-04-18)
 ------------------
 - Re-enabled support for automatic URL detection in chat messages
