@@ -1,3 +1,7 @@
+3.1.3 (2017-04-18)
+------------------
+- Re-enabled support for automatic URL detection in chat messages
+
 3.1.2 (2017-04-17)
 ------------------
 - Added support for showing keyboard immediately after creating a dialog
