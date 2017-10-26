@@ -3,7 +3,7 @@
   <groupId>me.appfriends.sdk</groupId>
   <artifactId>ui</artifactId>
   <versioning>
-    <release>3.2.4</release>
+    <release>3.2.5</release>
     <versions>
       <version>3.0.3</version>
       <version>3.0.5</version>
@@ -27,7 +27,8 @@
       <version>3.2.2</version>
       <version>3.2.3</version>
       <version>3.2.4</version>
+      <version>3.2.5</version>
     </versions>
-    <lastUpdated>20170928130154</lastUpdated>
+    <lastUpdated>20171026190203</lastUpdated>
   </versioning>
 </metadata>
