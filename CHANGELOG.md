@@ -1,3 +1,31 @@
+3.2.5 (2017-10-26)
+------------------
+- Upload cancelling support and locations
+
+3.2.4 (2017-09-28)
+------------------
+- Fixed a crash on user avatar list
+
+3.2.3 (2017-09-25)
+------------------
+- User search + unread messages API
+
+3.2.2 (2017-09-18)
+------------------
+- Better polished chat UI
+
+3.2.1 (2017-09-10)
+------------------
+- Updated color schemes
+
+3.2.0 (2017-09-02)
+------------------
+- Adjusted avatar display logic
+- Revamped UI with brand new popup list views
+- Updated Proguard settings
+- Officially removed deprecated APIs in versions 3.1.x
+- Crashes fixes and image sharing
+
 3.1.4 (2017-06-15)
 ------------------
 - Removed SDK dependency on 'com.splitwise:tokenautocomplete:2.0.8@aar' library
